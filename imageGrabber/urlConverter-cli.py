@@ -4,7 +4,7 @@ import os
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument('links', metavar='N', type=str, nargs='+', help='Url links to convert')
+parser.add_argument('links', type=str, nargs='+', help='Url links to convert')
 parser.add_argument("-fn", "--filename", help="File Name", dest='filename', default="./convertedImages")
 args = parser.parse_args()
 links = [i for i in args.links]
