@@ -1,5 +1,5 @@
 # Deadalus Scripts in Python
-## Built by: Dev.Icarus
+## Built by: dev.icarus
 #### View my Site: https://devicarus.com
 This is just a place where I store anything cool that I made in python that arn't quite big enough or "stand alone" enough to be  their own repo. A "Minor Tinkerings" repo.
 
